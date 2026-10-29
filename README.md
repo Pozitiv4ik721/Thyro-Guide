@@ -12,8 +12,8 @@
 
 * **Фреймворк:** [React 19](https://react.dev/)
 * **Язык:** [TypeScript](https://www.typescriptlang.org/)
-* **Сборщик:** [Vite 7](https://vitejs.dev/) + `vite-plugin-singlefile`
-* **Стилизация:** [Tailwind CSS v4](https://tailwindcss.com/) (`@tailwindcss/vite`)
+* **Сборщик:** [Vite 7](https://vitejs.dev/) 
+* **Стилизация:** [Tailwind CSS v4](https://tailwindcss.com/)
 * **Иконки и Анимации:** [Lucide React](https://lucide.dev/), [Framer Motion](https://www.framer.com/motion/)
 
 ---
