@@ -28,5 +28,5 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [https://github.com/ВАШ_USERNAME/thyro-guide.git](https://github.com/ВАШ_USERNAME/thyro-guide.git)
+   git clone [https://github.com/pozitiv4ik721/thyro-guide.git](https://github.com/ВАШ_USERNAME/thyro-guide.git)
    cd thyro-guide
