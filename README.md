@@ -24,9 +24,4 @@
 * **Node.js** (версии 20 или 22+)
 * **npm** или **pnpm**
 
-### Инструкция по установке
-
-1. **Клонируйте репозиторий:**
-   ```bash
-   git clone [https://github.com/pozitiv4ik721/thyro-guide.git](https://github.com/ВАШ_USERNAME/thyro-guide.git)
-   cd thyro-guide
+🌐 **Демонстрация работы сайта:** [thyro-guide.app](https://thyro-guide.vercel.app/)
