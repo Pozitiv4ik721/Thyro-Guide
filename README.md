@@ -28,4 +28,4 @@
 
 ## 🌐 Демонстрация работы сайта:
 
-* ** [thyro-guide.app](https://thyro-guide.vercel.app/) **
+* [thyro-guide.app](https://thyro-guide.vercel.app/)
