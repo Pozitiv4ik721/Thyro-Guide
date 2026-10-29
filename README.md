@@ -24,4 +24,8 @@
 * **Node.js** (версии 20 или 22+)
 * **npm** или **pnpm**
 
-🌐 **Демонстрация работы сайта:** [thyro-guide.app](https://thyro-guide.vercel.app/)
+---
+
+## 🌐 Демонстрация работы сайта:
+
+** [thyro-guide.app](https://thyro-guide.vercel.app/)
